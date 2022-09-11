@@ -1,2 +1,2 @@
 # odin-recipes
-This project lists recipes created as part of The Odin Project
+This project outlines the creation of a recipe website as part of The Odin Project.
